@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Synergy Chapter 3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_title">Words\n</string>
+    <string name="change_grid">Change Grid</string>
+</resources>
